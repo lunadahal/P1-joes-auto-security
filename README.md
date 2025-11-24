@@ -33,4 +33,6 @@ Assignment: Secure compromised Windows PC
 - Configured folder permissions
 - Removed non-business applications
 
+----
+
 Full project reports , requirement and solutions/evidence files are available in the folder.
