@@ -6,6 +6,8 @@ Windows PC security hardening project - System reconnaissance, vulnerability rem
 Client: Joe's Auto Body  
 Assignment: Secure compromised Windows PC  
 
+
+---
 ## What I Did
 ### Phase 1: System Reconnaissance
 - Documented hardware inventory and specifications
